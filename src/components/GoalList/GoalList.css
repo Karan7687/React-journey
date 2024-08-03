@@ -1,0 +1,11 @@
+.list {
+  list-style-type: none;
+  border: 10px solid wheat;
+  padding: 1rem;
+
+}
+.list li {
+    padding: 1rem;
+    margin: 1rem ;
+  border: 2px solid;
+}
